@@ -1,7 +1,7 @@
 # Projeto-Final---MB
 Projeto final do módulo basico de desenvolvimento fullstack - Capacita Brasil.
 ##  Acesse o Portfólio
-[Veja o site online](https://seu-usuario.github.io/seu-repositorio) " Atualizar quando o site tiver pronto "
+[Veja o site online](https://seu-usuario.github.io/seu-repositorio) 
 
 ### 📂 Estrutura do Projeto
 
