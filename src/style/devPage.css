@@ -7,10 +7,6 @@
     font-family: "Inter";
 }
 
-section{
-    margin: 70px 0;
-}
-
 #introduction{
     margin-top: 0;
     display: flex;
@@ -105,14 +101,4 @@ section{
 #blackBox>button:hover{
     background-color: rgb(211, 211, 211);
     cursor: pointer;
-}
-
-#history{
-    display: flex;
-    justify-content: center;
-}
-
-#history>h1{
-    font-size: 50px;
-    border-bottom: 3px solid black;
 }
