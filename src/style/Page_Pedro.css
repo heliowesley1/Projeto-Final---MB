@@ -1,0 +1,265 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: Inter;
+}
+
+#introduction{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+#introduction>div{
+    padding: 50px;
+    width: 50%;
+}
+
+#whiteBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#whiteBox>h4{
+    font-size: 28px;
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+    gap: 50px;
+}
+
+#descriptionDev{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 15px;
+    border-left: 3px solid black;
+}
+
+#descriptionDev>h1{
+    font-size: 50px;
+}
+
+#descriptionDev>p{
+    color: rgb(63, 63, 63);
+}
+
+#whiteBox>ul{
+    display: flex;
+    gap: 20px;
+    margin-left: 15px;
+}
+
+#blackBox{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+#blackBox>ul{
+    display: flex;
+    gap: 30px;
+    width: 90%;
+    justify-content: center;
+}
+
+#blackBox>ul>li>a{
+    color: white;
+}
+
+#blackBox>ul>li>a:hover{
+    color: rgb(211, 211, 211);
+}
+
+#blackBox>img{
+    height: 350px;
+    width: 350px;
+    border-radius: 100%;
+    border: 2px solid white;
+}
+
+#blackBox>button{
+    all: unset;
+    height: 40px;
+    width: 200px;
+    background-color: white;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 25px;
+    font-weight:  700;
+}
+
+#blackBox>button:hover{
+    background-color: rgb(211, 211, 211);
+    cursor: pointer;
+}
+body{
+    font-family: Arial, sans-serif;
+}
+
+.contato-container {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #ccc;
+    padding: 20px;
+    max-width: 900px;
+    margin: 20px auto;
+}
+
+.contato-esquerda {
+    width: 45%;
+}
+
+.contato-esquerda h2 {
+    margin-bottom: 10px;
+}
+
+.contato-esquerda p {
+    margin-bottom: 30px;
+}
+
+.info-contato {
+    align-items: center;
+    gap: 8px; 
+    margin-top: 30px; 
+    font-size: 16px;
+    line-height: 1;
+}
+
+.info-contato i {
+    margin-right: 5px;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+.info-contato img {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    margin-right: 5px;
+}
+
+.contato-direita {
+    width: 50%;
+    text-align: center;
+}
+
+.form-campo {
+    margin-bottom: 15px;
+}
+
+.form-campo input,
+.form-campo textarea {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-bottom: 1px solid #000;
+    background: transparent;
+    resize: none;
+}
+
+.form-botao {
+    text-align: center;
+}
+
+.form-botao button {
+    background: none;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.whatsapp-link {
+    text-align: right;
+    margin-top: 10px;
+}
+
+.whatsapp-link img {
+    width: 50px;
+    height: 50px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.jornada {
+    max-width: 900px;
+    margin: auto;
+}
+
+.jornada h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.jornada .colunas {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.jornada .coluna {
+    width: 45%;
+}
+
+.barra-container {
+    margin-bottom: 15px;
+}
+
+.barra-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.barra-externa {
+    background: #ddd;
+    height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.barra-interna {
+    height: 100%;
+    background: #222;
+    text-align: right;
+    color: white;
+    padding-right: 5px;
+    line-height: 20px;
+    border-radius: 10px;
+}
+
+.dicas {
+    margin-top: 30px;
+}
+
+.dicas ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.codigo {
+    background-color: #222;
+    color: #fff;
+    padding: 8px;
+    border-radius: 5px;
+    font-family: monospace;
+    margin: 10px 0;
+    display: inline-block;
+}
