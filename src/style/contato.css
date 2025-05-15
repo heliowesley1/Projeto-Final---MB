@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #fff;
+  color: #000;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.contato {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 60rem;
+  width: 100%;
+  gap: 4rem;
+  justify-content: center;
+  align-items: center; /* <-- CENTRALIZA NO EIXO Y */
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.8rem 2rem rgba(0, 0, 0, 0.3);
+}
+
+.contato-info {
+  flex: 1 1 26rem;
+}
+
+.contato-info h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.contato-info p {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  line-height: 1.6;
+  max-width: 28rem;
+}
+
+.linha {
+  height: 0.1rem;
+  width: 85%;
+  background-color: #000;
+  margin-bottom: 1.5rem;
+}
+
+.contato-info h3 {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.info-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.contato-form {
+  flex: 1 1 18rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  position: relative;
+}
+
+.contato-form label {
+  font-size: 0.85rem;
+  margin-bottom: 0.2rem;
+}
+
+.contato-form input,
+.contato-form textarea {
+  padding: 0.5rem 0.3rem;
+  font-size: 1rem;
+  border: none;
+  border-bottom: 0.1rem solid #000;
+  background: transparent;
+  outline: none;
+}
+
+.contato-form button {
+  align-self: flex-start;
+  padding: 0.4rem 3rem;
+  border: none;
+  background: transparent;
+  font-weight: bold;
+  font-size: 0.9rem;
+  border-bottom: 0.1rem solid #000;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.contato-form button:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.botao-centralizado {
+  display: flex;
+  justify-content: center;
+}
+
+
+
