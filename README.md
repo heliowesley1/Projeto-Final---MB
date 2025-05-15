@@ -69,10 +69,10 @@ git pull
 Se quiser saber mais ou colaborar, entre em contato:
 
 - Email: ivonildoflautista@gmail.com
-- Restante dos Integrantes   
+- Email: pedrofontenelerocha@outlook.com   
 - WhatsApp: [Clique aqui para conversar](https://wa.me/seunumerodetelefone)
-- Restante dos Integrantes 
+  
 
 ---
 
-Feito com 💻 e dedicação por Ivonildo de Lima Filho, Rayanna Gomes, Diogo Alves, Pedro etc.
+Feito com amor e dedicação por Ivonildo Filho, Rayanna Gomes, Diogo Alves, Pedro etc.
