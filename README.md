@@ -75,4 +75,4 @@ Se quiser saber mais ou colaborar, entre em contato:
 
 ---
 
-Feito com amor e dedicação por Ivonildo Filho, Rayanna Gomes, Diogo Alves, Pedro etc.
+Feito com amor e dedicação por Ivonildo Filho, Rayanna Gomes, Diogo Alves, Pedro e Helio.
