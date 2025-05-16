@@ -1,7 +1,7 @@
 # Projeto-Final---MB
 Projeto final do módulo basico de desenvolvimento fullstack - Capacita Brasil.
 ##  Acesse o Portfólio
-[Veja o site online](https://seu-usuario.github.io/seu-repositorio) " Atualizar quando o site tiver pronto "
+[Veja o site online](https://seu-usuario.github.io/seu-repositorio) 
 
 ### 📂 Estrutura do Projeto
 
@@ -69,10 +69,10 @@ git pull
 Se quiser saber mais ou colaborar, entre em contato:
 
 - Email: ivonildoflautista@gmail.com
-- Restante dos Integrantes   
+- Email: pedrofontenelerocha@outlook.com   
 - WhatsApp: [Clique aqui para conversar](https://wa.me/seunumerodetelefone)
-- Restante dos Integrantes 
+  
 
 ---
 
-Feito com 💻 e dedicação por Ivonildo de Lima Filho, Rayanna Gomes, Diogo Alves, Pedro etc.
+Feito com amor e dedicação por Ivonildo Filho, Rayanna Gomes, Diogo Alves, Pedro e Helio.
