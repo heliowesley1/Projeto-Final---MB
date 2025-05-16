@@ -115,6 +115,8 @@ section{
 #history>h1{
     font-size: 50px;
     border-bottom: 3px solid black;
+}
+
 #barraProgresso{
     display: flex;
     flex-direction: column;
