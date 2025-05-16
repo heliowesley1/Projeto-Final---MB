@@ -64,14 +64,6 @@ git log
 
  Atualizar repositório local com o GitHub
 git pull
-######  Contato
-
-Se quiser saber mais ou colaborar, entre em contato:
-
-- Email: ivonildoflautista@gmail.com
-- Email: pedrofontenelerocha@outlook.com   
-- WhatsApp: [Clique aqui para conversar](https://wa.me/seunumerodetelefone)
-  
 
 ---
 
